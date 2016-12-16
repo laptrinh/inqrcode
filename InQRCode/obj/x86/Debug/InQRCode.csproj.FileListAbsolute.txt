@@ -1,0 +1,11 @@
+D:\Project\InQRCode\InQRCode\bin\Debug\InQRCode.exe.config
+D:\Project\InQRCode\InQRCode\bin\Debug\InQRCode.exe
+D:\Project\InQRCode\InQRCode\bin\Debug\InQRCode.pdb
+D:\Project\InQRCode\InQRCode\obj\x86\Debug\InQRCode.csprojResolveAssemblyReference.cache
+D:\Project\InQRCode\InQRCode\obj\x86\Debug\InQRCode.Form1.resources
+D:\Project\InQRCode\InQRCode\obj\x86\Debug\InQRCode.Properties.Resources.resources
+D:\Project\InQRCode\InQRCode\obj\x86\Debug\InQRCode.csproj.GenerateResource.Cache
+D:\Project\InQRCode\InQRCode\obj\x86\Debug\InQRCode.exe
+D:\Project\InQRCode\InQRCode\obj\x86\Debug\InQRCode.pdb
+D:\Project\InQRCode\InQRCode\bin\Debug\zxing.dll
+D:\Project\InQRCode\InQRCode\bin\Debug\zxing.presentation.dll
